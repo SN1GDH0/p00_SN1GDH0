@@ -1,5 +1,5 @@
 # Project 00 For NeXT CS
-### Class Period:
+### Class Period: 5
 ### Name0: Snigdho Somprity
 ### Name1: OTHER NAME HERE (delete this line if you are working solo)
 ---
