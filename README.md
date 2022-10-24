@@ -1,6 +1,6 @@
 # Project 00 For NeXT CS
 ### Class Period:
-### Name0: YOUR NAME HERE
+### Name0: Snigdho Somprity
 ### Name1: OTHER NAME HERE (delete this line if you are working solo)
 ---
 
